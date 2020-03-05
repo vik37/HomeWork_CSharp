@@ -1,0 +1,11 @@
+D:\c_sharp\c_sharp_begin\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.exe
+D:\c_sharp\c_sharp_begin\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.deps.json
+D:\c_sharp\c_sharp_begin\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.runtimeconfig.json
+D:\c_sharp\c_sharp_begin\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.runtimeconfig.dev.json
+D:\c_sharp\c_sharp_begin\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.dll
+D:\c_sharp\c_sharp_begin\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.pdb
+D:\c_sharp\c_sharp_begin\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.csprojAssemblyReference.cache
+D:\c_sharp\c_sharp_begin\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.AssemblyInfoInputs.cache
+D:\c_sharp\c_sharp_begin\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.AssemblyInfo.cs
+D:\c_sharp\c_sharp_begin\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.dll
+D:\c_sharp\c_sharp_begin\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.pdb

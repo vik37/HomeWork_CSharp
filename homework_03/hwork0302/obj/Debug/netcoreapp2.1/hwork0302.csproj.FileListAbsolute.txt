@@ -1,0 +1,10 @@
+D:\c_sharp\c_sharp_begin\homework_03\hwork0302\bin\Debug\netcoreapp2.1\hwork0302.deps.json
+D:\c_sharp\c_sharp_begin\homework_03\hwork0302\bin\Debug\netcoreapp2.1\hwork0302.runtimeconfig.json
+D:\c_sharp\c_sharp_begin\homework_03\hwork0302\bin\Debug\netcoreapp2.1\hwork0302.runtimeconfig.dev.json
+D:\c_sharp\c_sharp_begin\homework_03\hwork0302\bin\Debug\netcoreapp2.1\hwork0302.dll
+D:\c_sharp\c_sharp_begin\homework_03\hwork0302\bin\Debug\netcoreapp2.1\hwork0302.pdb
+D:\c_sharp\c_sharp_begin\homework_03\hwork0302\obj\Debug\netcoreapp2.1\hwork0302.csprojAssemblyReference.cache
+D:\c_sharp\c_sharp_begin\homework_03\hwork0302\obj\Debug\netcoreapp2.1\hwork0302.AssemblyInfoInputs.cache
+D:\c_sharp\c_sharp_begin\homework_03\hwork0302\obj\Debug\netcoreapp2.1\hwork0302.AssemblyInfo.cs
+D:\c_sharp\c_sharp_begin\homework_03\hwork0302\obj\Debug\netcoreapp2.1\hwork0302.dll
+D:\c_sharp\c_sharp_begin\homework_03\hwork0302\obj\Debug\netcoreapp2.1\hwork0302.pdb

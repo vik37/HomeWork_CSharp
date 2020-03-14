@@ -1,0 +1,10 @@
+C:\Users\vikto\source\repos\prpject_01\homwork0402\bin\Debug\netcoreapp3.1\homwork0402.exe
+C:\Users\vikto\source\repos\prpject_01\homwork0402\bin\Debug\netcoreapp3.1\homwork0402.deps.json
+C:\Users\vikto\source\repos\prpject_01\homwork0402\bin\Debug\netcoreapp3.1\homwork0402.runtimeconfig.json
+C:\Users\vikto\source\repos\prpject_01\homwork0402\bin\Debug\netcoreapp3.1\homwork0402.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\prpject_01\homwork0402\bin\Debug\netcoreapp3.1\homwork0402.dll
+C:\Users\vikto\source\repos\prpject_01\homwork0402\bin\Debug\netcoreapp3.1\homwork0402.pdb
+C:\Users\vikto\source\repos\prpject_01\homwork0402\obj\Debug\netcoreapp3.1\homwork0402.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\prpject_01\homwork0402\obj\Debug\netcoreapp3.1\homwork0402.AssemblyInfo.cs
+C:\Users\vikto\source\repos\prpject_01\homwork0402\obj\Debug\netcoreapp3.1\homwork0402.dll
+C:\Users\vikto\source\repos\prpject_01\homwork0402\obj\Debug\netcoreapp3.1\homwork0402.pdb

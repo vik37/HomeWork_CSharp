@@ -1,0 +1,10 @@
+C:\Users\vikto\source\repos\prpject_01\prpject_01\bin\Debug\netcoreapp2.1\prpject_01.deps.json
+C:\Users\vikto\source\repos\prpject_01\prpject_01\bin\Debug\netcoreapp2.1\prpject_01.runtimeconfig.json
+C:\Users\vikto\source\repos\prpject_01\prpject_01\bin\Debug\netcoreapp2.1\prpject_01.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\prpject_01\prpject_01\bin\Debug\netcoreapp2.1\prpject_01.dll
+C:\Users\vikto\source\repos\prpject_01\prpject_01\bin\Debug\netcoreapp2.1\prpject_01.pdb
+C:\Users\vikto\source\repos\prpject_01\prpject_01\obj\Debug\netcoreapp2.1\prpject_01.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\prpject_01\prpject_01\obj\Debug\netcoreapp2.1\prpject_01.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\prpject_01\prpject_01\obj\Debug\netcoreapp2.1\prpject_01.AssemblyInfo.cs
+C:\Users\vikto\source\repos\prpject_01\prpject_01\obj\Debug\netcoreapp2.1\prpject_01.dll
+C:\Users\vikto\source\repos\prpject_01\prpject_01\obj\Debug\netcoreapp2.1\prpject_01.pdb

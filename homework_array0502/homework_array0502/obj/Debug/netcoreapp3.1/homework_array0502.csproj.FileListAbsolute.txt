@@ -1,0 +1,11 @@
+C:\Users\vikto\source\repos\homework_array0502\homework_array0502\bin\Debug\netcoreapp3.1\homework_array0502.exe
+C:\Users\vikto\source\repos\homework_array0502\homework_array0502\bin\Debug\netcoreapp3.1\homework_array0502.deps.json
+C:\Users\vikto\source\repos\homework_array0502\homework_array0502\bin\Debug\netcoreapp3.1\homework_array0502.runtimeconfig.json
+C:\Users\vikto\source\repos\homework_array0502\homework_array0502\bin\Debug\netcoreapp3.1\homework_array0502.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\homework_array0502\homework_array0502\bin\Debug\netcoreapp3.1\homework_array0502.dll
+C:\Users\vikto\source\repos\homework_array0502\homework_array0502\bin\Debug\netcoreapp3.1\homework_array0502.pdb
+C:\Users\vikto\source\repos\homework_array0502\homework_array0502\obj\Debug\netcoreapp3.1\homework_array0502.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\homework_array0502\homework_array0502\obj\Debug\netcoreapp3.1\homework_array0502.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\homework_array0502\homework_array0502\obj\Debug\netcoreapp3.1\homework_array0502.AssemblyInfo.cs
+C:\Users\vikto\source\repos\homework_array0502\homework_array0502\obj\Debug\netcoreapp3.1\homework_array0502.dll
+C:\Users\vikto\source\repos\homework_array0502\homework_array0502\obj\Debug\netcoreapp3.1\homework_array0502.pdb

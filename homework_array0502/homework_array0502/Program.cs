@@ -8,8 +8,8 @@ namespace homework_array0502
         {
             //string[] names = new string[] { Console.ReadLine() }; 
 
-     
-            string[] names;
+
+
 
 
             //do
@@ -35,14 +35,16 @@ namespace homework_array0502
             //    Console.WriteLine(i);
             //    Console.ReadLine();
             //}
+            string[] names = new string[] { };
 
-
-            
             while (true) 
             {
-                Console.WriteLine("Enter the name");
-                names = new string[] { Console.ReadLine() };
+                int index = 0;
 
+                Console.WriteLine("Enter the name");
+                string element = Console.ReadLine();
+                names[index] = element;
+                Array.Resize(ref names, names.Length + 1);
 
                 Console.WriteLine("Do you want to enter another name? (Y / N)");
                 string yesNo = Console.ReadLine();
@@ -51,6 +53,7 @@ namespace homework_array0502
                 {
                     break;
                 }
+                index++;
 
 
             }

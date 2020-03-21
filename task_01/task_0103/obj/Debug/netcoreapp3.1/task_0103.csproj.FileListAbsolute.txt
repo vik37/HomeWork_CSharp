@@ -1,0 +1,11 @@
+C:\Users\vikto\source\repos\task_01\task_0103\bin\Debug\netcoreapp3.1\task_0103.exe
+C:\Users\vikto\source\repos\task_01\task_0103\bin\Debug\netcoreapp3.1\task_0103.deps.json
+C:\Users\vikto\source\repos\task_01\task_0103\bin\Debug\netcoreapp3.1\task_0103.runtimeconfig.json
+C:\Users\vikto\source\repos\task_01\task_0103\bin\Debug\netcoreapp3.1\task_0103.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\task_01\task_0103\bin\Debug\netcoreapp3.1\task_0103.dll
+C:\Users\vikto\source\repos\task_01\task_0103\bin\Debug\netcoreapp3.1\task_0103.pdb
+C:\Users\vikto\source\repos\task_01\task_0103\obj\Debug\netcoreapp3.1\task_0103.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\task_01\task_0103\obj\Debug\netcoreapp3.1\task_0103.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\task_01\task_0103\obj\Debug\netcoreapp3.1\task_0103.AssemblyInfo.cs
+C:\Users\vikto\source\repos\task_01\task_0103\obj\Debug\netcoreapp3.1\task_0103.dll
+C:\Users\vikto\source\repos\task_01\task_0103\obj\Debug\netcoreapp3.1\task_0103.pdb

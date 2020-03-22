@@ -15,13 +15,13 @@ namespace task_0103
 
             while (true)
             {
-                if(userNames != null) { 
+                if(userNames != null && userNames.Length > 0) { 
                     Console.WriteLine("Enter usarname");
                     elementOne = Console.ReadLine();
                     Array.Resize(ref userNames, userNames.Length + 1);
                     userNames[i] = elementOne;
                 }
-                if (password != null)
+                if (password != null && password.Length > 0)
                 {
                     Console.WriteLine("Enter password");
                     elementTwo = Console.ReadLine();
@@ -61,41 +61,41 @@ namespace task_0103
             //    i++;
             //} while (true);
            int countUsser = 0;
-            int countPass = 0
-                ;
-            string userFull;
-            string passFull;
+            int countPass = 0;
+            
             int j;
-            for(i = 0;i <= userNames.Length; i++)
+            Console.WriteLine("Log in... ");
+            Console.WriteLine("Enter your user name");
+            string userFull = Console.ReadLine();
+            Console.WriteLine("Enter your password");
+            string passFull = Console.ReadLine();
+            for (i = 0;i <= userNames.Length; i++)
             {
                 for(j = 0; j <= password.Length; j++)
                 {
                    // if (userNames[countUsser] == password[countPass])  
                    // {
-                        Console.WriteLine("Log in... ");
-                        Console.WriteLine("Enter your user name");
-                        userFull = Console.ReadLine();
-                        Console.WriteLine("Enter your password");
-                        passFull = Console.ReadLine();
-                        if (userNames[countUsser] == userFull || password[countPass] == passFull)
+                        
+                        if (userNames[i] == userFull && password[j] == passFull
+                        && userNames.Length == password.Length)                           
                         {
                             Console.ForegroundColor = ConsoleColor.Yellow;
                             Console.WriteLine("You are logged in successfully");
                             Console.ReadLine();
                             countUsser = i;
-                            countPass = j;
-                            break;
-
+                            countPass = j;                       
+                        break;
                         }
+
                         else
                         {
                             Console.ForegroundColor = ConsoleColor.Red;
 
                             Console.WriteLine("Incorrect username or password");
                             Console.ReadLine();
-                        }
+                        };
 
-                 //   }
+                    //   }
 
 
                     //else
@@ -105,10 +105,12 @@ namespace task_0103
                     //    Console.WriteLine("ERRORR!!!");
                     //    Console.ReadLine();
                     //}
-          
-                   // countPass++;
+
+                    countUsser++;
+                    countPass++;
+
                 }
-               // countPass++;
+                
             }
             foreach(string user in userNames)
             {

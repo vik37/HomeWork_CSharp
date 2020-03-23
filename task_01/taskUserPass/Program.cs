@@ -49,28 +49,31 @@ namespace taskUserPass
 
             for (i = 0; i < charactUser.Length; i++)
             {
+                
 
-                if (char.IsUpper(charactUser[0]) && char.IsLower(charactUser[i]) &&
-                    char.IsLetter(charactUser[i]) && char.IsNumber(charactUser[i]))
+                if (char.IsUpper(charactUser[0]) || char.IsLower(charactUser[i]) ||
+                    char.IsLetter(charactUser[i]))
                 {
 
                     Console.ForegroundColor = ConsoleColor.Yellow;
                     Console.WriteLine("Your user logged in successfully");
 
                 }
+                break;
+                
             }
 
             for (i = 0; i < charactPass.Length; i++)
             {
-                        
-                if (char.IsUpper(charactPass[i]) && char.IsLower(charactUser[i]) &&
-                            char.IsLetter(charactUser[i]) && char.IsNumber(charactUser[i]))
-                 {
 
-                      Console.ForegroundColor = ConsoleColor.Yellow;
-                      Console.WriteLine("Your password in successfully");
-                            
-                 }
+              
+                if (char.IsUpper(charactPass[i]) || char.IsLower(charactPass[i]) ||
+                            char.IsLetter(charactPass[i]) || char.IsNumber(charactPass[i]))
+                 {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.WriteLine("Your password in successfully");
+                }
+                break;
             }
             Console.ReadLine();
             // count++;
@@ -79,14 +82,17 @@ namespace taskUserPass
             //}
             foreach (string user in userNames)
             {              
-                Console.WriteLine("User: " + user);               
+                Console.WriteLine("User: " + user);
+                Console.ReadLine();
             }
             foreach (string pass in password)
             {
                 Console.WriteLine("Password: " + pass);
-                
+                Console.ReadLine();
+
+
             }
-            Console.ReadLine();
+            //Console.ReadLine();
         }
 
     }

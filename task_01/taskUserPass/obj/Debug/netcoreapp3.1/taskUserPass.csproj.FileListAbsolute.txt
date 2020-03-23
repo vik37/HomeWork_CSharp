@@ -1,0 +1,11 @@
+C:\Users\vikto\source\repos\task_01\taskUserPass\bin\Debug\netcoreapp3.1\taskUserPass.exe
+C:\Users\vikto\source\repos\task_01\taskUserPass\bin\Debug\netcoreapp3.1\taskUserPass.deps.json
+C:\Users\vikto\source\repos\task_01\taskUserPass\bin\Debug\netcoreapp3.1\taskUserPass.runtimeconfig.json
+C:\Users\vikto\source\repos\task_01\taskUserPass\bin\Debug\netcoreapp3.1\taskUserPass.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\task_01\taskUserPass\bin\Debug\netcoreapp3.1\taskUserPass.dll
+C:\Users\vikto\source\repos\task_01\taskUserPass\bin\Debug\netcoreapp3.1\taskUserPass.pdb
+C:\Users\vikto\source\repos\task_01\taskUserPass\obj\Debug\netcoreapp3.1\taskUserPass.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\task_01\taskUserPass\obj\Debug\netcoreapp3.1\taskUserPass.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\task_01\taskUserPass\obj\Debug\netcoreapp3.1\taskUserPass.AssemblyInfo.cs
+C:\Users\vikto\source\repos\task_01\taskUserPass\obj\Debug\netcoreapp3.1\taskUserPass.dll
+C:\Users\vikto\source\repos\task_01\taskUserPass\obj\Debug\netcoreapp3.1\taskUserPass.pdb

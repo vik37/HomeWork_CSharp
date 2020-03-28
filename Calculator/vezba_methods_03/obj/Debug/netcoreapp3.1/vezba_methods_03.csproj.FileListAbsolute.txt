@@ -1,0 +1,11 @@
+C:\Users\vikto\source\repos\Calculator\vezba_methods_03\bin\Debug\netcoreapp3.1\vezba_methods_03.exe
+C:\Users\vikto\source\repos\Calculator\vezba_methods_03\bin\Debug\netcoreapp3.1\vezba_methods_03.deps.json
+C:\Users\vikto\source\repos\Calculator\vezba_methods_03\bin\Debug\netcoreapp3.1\vezba_methods_03.runtimeconfig.json
+C:\Users\vikto\source\repos\Calculator\vezba_methods_03\bin\Debug\netcoreapp3.1\vezba_methods_03.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Calculator\vezba_methods_03\bin\Debug\netcoreapp3.1\vezba_methods_03.dll
+C:\Users\vikto\source\repos\Calculator\vezba_methods_03\bin\Debug\netcoreapp3.1\vezba_methods_03.pdb
+C:\Users\vikto\source\repos\Calculator\vezba_methods_03\obj\Debug\netcoreapp3.1\vezba_methods_03.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Calculator\vezba_methods_03\obj\Debug\netcoreapp3.1\vezba_methods_03.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Calculator\vezba_methods_03\obj\Debug\netcoreapp3.1\vezba_methods_03.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Calculator\vezba_methods_03\obj\Debug\netcoreapp3.1\vezba_methods_03.dll
+C:\Users\vikto\source\repos\Calculator\vezba_methods_03\obj\Debug\netcoreapp3.1\vezba_methods_03.pdb

@@ -1,0 +1,11 @@
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\HomeWork_Date\bin\Debug\netcoreapp3.1\HomeWork_Date.exe
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\HomeWork_Date\bin\Debug\netcoreapp3.1\HomeWork_Date.deps.json
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\HomeWork_Date\bin\Debug\netcoreapp3.1\HomeWork_Date.runtimeconfig.json
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\HomeWork_Date\bin\Debug\netcoreapp3.1\HomeWork_Date.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\HomeWork_Date\bin\Debug\netcoreapp3.1\HomeWork_Date.dll
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\HomeWork_Date\bin\Debug\netcoreapp3.1\HomeWork_Date.pdb
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\HomeWork_Date\obj\Debug\netcoreapp3.1\HomeWork_Date.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\HomeWork_Date\obj\Debug\netcoreapp3.1\HomeWork_Date.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\HomeWork_Date\obj\Debug\netcoreapp3.1\HomeWork_Date.dll
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\HomeWork_Date\obj\Debug\netcoreapp3.1\HomeWork_Date.pdb
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\HomeWork_Date\obj\Debug\netcoreapp3.1\HomeWork_Date.csprojAssemblyReference.cache

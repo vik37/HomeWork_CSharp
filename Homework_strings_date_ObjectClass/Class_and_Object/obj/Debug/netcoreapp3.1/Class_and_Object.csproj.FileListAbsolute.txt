@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\Class_and_Object\bin\Debug\netcoreapp3.1\Class_and_Object.exe
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\Class_and_Object\bin\Debug\netcoreapp3.1\Class_and_Object.deps.json
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\Class_and_Object\bin\Debug\netcoreapp3.1\Class_and_Object.runtimeconfig.json
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\Class_and_Object\bin\Debug\netcoreapp3.1\Class_and_Object.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\Class_and_Object\bin\Debug\netcoreapp3.1\Class_and_Object.dll
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\Class_and_Object\bin\Debug\netcoreapp3.1\Class_and_Object.pdb
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\Class_and_Object\obj\Debug\netcoreapp3.1\Class_and_Object.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\Class_and_Object\obj\Debug\netcoreapp3.1\Class_and_Object.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\Class_and_Object\obj\Debug\netcoreapp3.1\Class_and_Object.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\Class_and_Object\obj\Debug\netcoreapp3.1\Class_and_Object.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\Class_and_Object\obj\Debug\netcoreapp3.1\Class_and_Object.dll
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\Class_and_Object\obj\Debug\netcoreapp3.1\Class_and_Object.pdb
+C:\Users\vikto\source\repos\Homework_strings_date_ObjectClass\Class_and_Object\obj\Debug\netcoreapp3.1\Class_and_Object.genruntimeconfig.cache

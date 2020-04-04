@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\HomeWork_0601\HomeWork_0602\bin\Debug\netcoreapp3.1\HomeWork_0602.exe
+C:\Users\vikto\source\repos\HomeWork_0601\HomeWork_0602\bin\Debug\netcoreapp3.1\HomeWork_0602.deps.json
+C:\Users\vikto\source\repos\HomeWork_0601\HomeWork_0602\bin\Debug\netcoreapp3.1\HomeWork_0602.runtimeconfig.json
+C:\Users\vikto\source\repos\HomeWork_0601\HomeWork_0602\bin\Debug\netcoreapp3.1\HomeWork_0602.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\HomeWork_0601\HomeWork_0602\bin\Debug\netcoreapp3.1\HomeWork_0602.dll
+C:\Users\vikto\source\repos\HomeWork_0601\HomeWork_0602\bin\Debug\netcoreapp3.1\HomeWork_0602.pdb
+C:\Users\vikto\source\repos\HomeWork_0601\HomeWork_0602\obj\Debug\netcoreapp3.1\HomeWork_0602.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\HomeWork_0601\HomeWork_0602\obj\Debug\netcoreapp3.1\HomeWork_0602.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\HomeWork_0601\HomeWork_0602\obj\Debug\netcoreapp3.1\HomeWork_0602.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\HomeWork_0601\HomeWork_0602\obj\Debug\netcoreapp3.1\HomeWork_0602.AssemblyInfo.cs
+C:\Users\vikto\source\repos\HomeWork_0601\HomeWork_0602\obj\Debug\netcoreapp3.1\HomeWork_0602.dll
+C:\Users\vikto\source\repos\HomeWork_0601\HomeWork_0602\obj\Debug\netcoreapp3.1\HomeWork_0602.pdb
+C:\Users\vikto\source\repos\HomeWork_0601\HomeWork_0602\obj\Debug\netcoreapp3.1\HomeWork_0602.genruntimeconfig.cache

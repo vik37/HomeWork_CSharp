@@ -8,55 +8,28 @@ namespace HomeWork_0602
         public string Name;
         public bool Pass;
 
-        public SecondCourse CourseTwo;
-        public Grades grade;
-        Project project;
-        public FirstCourse()
+        
+        public bool IsPassed()
         {
-
-        }
-        public FirstCourse(string name, bool pass)
-        {
-            Name = name;
-            Pass = pass;
-        }
-        public void IsPassed()
-        {
-            if (Pass)
-            {
-                Console.WriteLine($"Student have grade: {grade} and he is Pass the cuerse.");
-            }
-            else
-            {
-                Console.WriteLine($"Student have grade: {grade} and he is Not Passed the cuerse.");
-            }
+            return Pass;
         }
     }
     class SecondCourse
     {
         public string Name;
-       // public int Grade;
-        public Grades grade;
-        public FirstCourse CourseOne;
-
-        public SecondCourse()
-        {
-
-        }
-        public SecondCourse(string name)
-        {
-            Name = name;
-            
-        }
+       
+        public Grades Grade;
+        
               
-        public void IsPassed()
+        public bool IsPassed()
         {
-            if(CourseOne.Pass){
-                Console.WriteLine($"Student have grade: {grade} and he is Pass the cuerse.");
+            if(Grade != Grades.NoPassGrade)
+            {
+                return true;
             }
             else
             {
-                Console.WriteLine($"Student have grade: {grade} and he is Not Passed the cuerse.");
+                return false;
             }
         }
 
@@ -65,25 +38,37 @@ namespace HomeWork_0602
     
     class Project
     {
-        SecondCourse CourseTwo;
-        FirstCourse CourseOne;
-        Grades grades;
-        public Project()
-        {
-            
-        }
-        public void isPassed()
-        {
-            if (CourseTwo.grade != Grades.NoPassGrade && CourseOne.grade != Grades.NoPassGrade)
-            {
-                CourseOne.Pass = true;
+        public FirstCourse FirstFirstCuerse;
+        public FirstCourse SecondFirstCuerse;
+        public SecondCourse FirstSecondCuerse;
+        public SecondCourse SecondSecondCuerse;
 
+        public void IsPassed()
+        {
+            var firstChack = FirstFirstCuerse.IsPassed();
+            var secondChack = SecondFirstCuerse.IsPassed();
+            var thirdChack = FirstSecondCuerse.IsPassed();
+            var fourthChack = SecondSecondCuerse.IsPassed();
+            var finalChack = new bool[] { firstChack, secondChack, thirdChack, fourthChack };
+            var sum = 0;
+
+            foreach (var item in finalChack)
+            {
+                if(item == true)
+                {
+                    sum++;
+                }
+            }
+            if(sum >= 3)
+            {
+                Console.WriteLine("PASSED");
             }
             else
             {
-                CourseOne.Pass = false;
+                Console.WriteLine("NOT PASSED");
             }
         }
+
     }
     public enum Grades
     {
@@ -100,25 +85,29 @@ namespace HomeWork_0602
         {
             var course1 = new FirstCourse();
             course1.Name = "Java Script Beggin";
-            Grades a = Grades.LowGrade;
-            course1.grade = a;
+            course1.Pass = true;
+            
             var course2 = new FirstCourse();
             course2.Name = "JavaScript Advanced";
-            Grades b = Grades.NoPassGrade;
-            course2.grade = b;
+            course2.Pass = false;
+           
             var course3 = new SecondCourse();
             course3.Name = "C Sharp Beggin";
-            Grades c = Grades.ExcellentGrade;
-            course2.grade = c;
+            course3.Grade = Grades.ExcellentGrade;
+            
             var course4 = new SecondCourse();
-            course4.Name = "C Sharp Advanced";
-            Grades d = Grades.MediumGrade;
-            course2.grade = d;
+            course4.Name = "C Sharp Advanced";           
+            course4.Grade = Grades.HigtGrade;
 
-
-            course1.IsPassed();
-            course2.IsPassed();
-            // Console.WriteLine(course1.IsPassed());
+            Project final = new Project()
+            {
+                FirstFirstCuerse = course1,
+                SecondFirstCuerse = course2,
+                 FirstSecondCuerse = course3,
+                SecondSecondCuerse = course4
+            };
+            final.IsPassed();
+            
             Console.ReadLine();
         }
     }

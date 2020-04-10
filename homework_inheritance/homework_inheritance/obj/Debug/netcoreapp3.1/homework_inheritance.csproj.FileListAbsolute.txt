@@ -1,0 +1,16 @@
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\bin\Debug\netcoreapp3.1\homework_inheritance.exe
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\bin\Debug\netcoreapp3.1\homework_inheritance.deps.json
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\bin\Debug\netcoreapp3.1\homework_inheritance.runtimeconfig.json
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\bin\Debug\netcoreapp3.1\homework_inheritance.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\bin\Debug\netcoreapp3.1\homework_inheritance.dll
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\bin\Debug\netcoreapp3.1\homework_inheritance.pdb
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\bin\Debug\netcoreapp3.1\Random.dll
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\bin\Debug\netcoreapp3.1\Random.pdb
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\obj\Debug\netcoreapp3.1\homework_inheritance.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\obj\Debug\netcoreapp3.1\homework_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\obj\Debug\netcoreapp3.1\homework_inheritance.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\obj\Debug\netcoreapp3.1\homework_inheritance.AssemblyInfo.cs
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\obj\Debug\netcoreapp3.1\homework_inheritance.csproj.CopyComplete
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\obj\Debug\netcoreapp3.1\homework_inheritance.dll
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\obj\Debug\netcoreapp3.1\homework_inheritance.pdb
+C:\Users\vikto\source\repos\homework_inheritance\homework_inheritance\obj\Debug\netcoreapp3.1\homework_inheritance.genruntimeconfig.cache

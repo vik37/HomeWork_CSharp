@@ -1,0 +1,16 @@
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.exe
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.deps.json
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.runtimeconfig.json
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.runtimeconfig.dev.json
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.dll
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.pdb
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp3.1\SubjectServices.dll
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp3.1\SubjectServices.pdb
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.csprojAssemblyReference.cache
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.AssemblyInfoInputs.cache
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.AssemblyInfo.cs
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.csproj.CopyComplete
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.dll
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.pdb
+C:\Users\vikto\Documents\github\HomeWork_CSharp\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.genruntimeconfig.cache

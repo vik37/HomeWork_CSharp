@@ -5,7 +5,6 @@ namespace RandomGenerate
     public class RandomNumber
     {
         
-
         public static int GenerateRandomNum()
         {
             var random = new Random();

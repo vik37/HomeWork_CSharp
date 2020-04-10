@@ -37,8 +37,9 @@ namespace homework_inheritance.CarClass
 
         public void PrintInfo()
         {
-            Console.WriteLine("Id {0} Brand: {1}, Model: {2}, Doors: {3}, Top Speed: {4} kph", Id, Brand, Model, Doors, TopSpeed);
+            Console.WriteLine("Id - {0} | Brand: {1}, Model: {2}, Doors: {3}, Top Speed: {4} km/h", Id, Brand, Model, Doors, TopSpeed);
             Console.WriteLine("This car have {0} consumption and his type of engine is {1}", Consumpt, TypeOfEngine);
+            Console.WriteLine("---------------------------------------");
         }
 
         

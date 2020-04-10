@@ -42,7 +42,24 @@ namespace homework_inheritance.TypeOfVehicles
             {
                 result = distance * 3 / 10;
             }
-            Console.WriteLine("From {0} KM, fuel has been use {1} KWh. ", distance, result);
+            
+            Console.WriteLine("From {0} KM, fuel has been use {1} Litters. ", distance, result);
+            Console.WriteLine("----------------------------------------------");
+        }
+
+        public void Refuel(int fuel)
+        {
+            int addFuel = FuelCapacity - CurrentFuel + fuel;
+            int canAddFuel = FuelCapacity - addFuel;
+            if(addFuel >= FuelCapacity)
+            {
+                Console.WriteLine("Your tank is full. If you submit, it will overflow. Can't refuel more then {0} liters", FuelCapacity);
+            }
+            else
+            {
+                Console.WriteLine($"Add: {addFuel} fuel, you can add more {canAddFuel}.L fuel.");
+            }
+            Console.WriteLine("____________________________________________________________________");
         }
 
 

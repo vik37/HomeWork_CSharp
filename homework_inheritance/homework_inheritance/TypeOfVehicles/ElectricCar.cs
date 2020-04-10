@@ -11,15 +11,20 @@ namespace homework_inheritance.TypeOfVehicles
         public int BatteryCapacity { get; set; }
         public int BatteryUsage { get; set; }
         public Consumption CarConsumpt { get; set; }
+
+        
+
+        
         public ElectricCar()
         {
-            Console.WriteLine("Batery Capacity {0}, Batery Usage {1} months", BatteryCapacity, BatteryUsage);
+            
         }
         public ElectricCar(int batteryCapacity, int batteryUsage)
            
         {
             BatteryCapacity = batteryCapacity;
             BatteryUsage = batteryUsage;
+           
         }
         public ElectricCar(int id, string brand, string model, int doors, int topSpeed)
             : base(id, brand, model, doors, topSpeed)
@@ -41,7 +46,9 @@ namespace homework_inheritance.TypeOfVehicles
             {
                 result = distance * 3 / 10;
             }
+            
             Console.WriteLine("From {0} KM, battery has been use {1} KWh. ", distance, result);
+            Console.WriteLine("-----------------------------------------------------------------------------------");
         }
 
         public void Recharge(int minute)
@@ -49,6 +56,20 @@ namespace homework_inheritance.TypeOfVehicles
             int percent = minute / 10;
 
             Console.WriteLine($"Battery charge from {minute} minutes, to {percent} percent ");
+            Console.WriteLine("Batery Capacity {0}KM, Batery Usage {1} KWh", BatteryCapacity, BatteryUsage);
+            Console.WriteLine("-----------------------------------------------------------------------------------");
+
+            int charging = 100 - percent * minute;
+            int canAddEnergy = 100 - percent;
+            if (percent > 100)
+            {
+                Console.WriteLine("Battery is full. Can't charge longer then {0} minutes", charging);
+            }
+            else
+            {
+                Console.WriteLine($"Battery: {percent}%, remmined: {canAddEnergy}%.");
+            }
+            Console.WriteLine("____________________________________________________________________");
         }
     }
 }

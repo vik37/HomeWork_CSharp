@@ -1,0 +1,9 @@
+C:\Users\vikto\source\repos\homework_inheritance\Random\bin\Debug\netcoreapp3.1\Random.deps.json
+C:\Users\vikto\source\repos\homework_inheritance\Random\bin\Debug\netcoreapp3.1\Random.dll
+C:\Users\vikto\source\repos\homework_inheritance\Random\bin\Debug\netcoreapp3.1\Random.pdb
+C:\Users\vikto\source\repos\homework_inheritance\Random\obj\Debug\netcoreapp3.1\Random.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\homework_inheritance\Random\obj\Debug\netcoreapp3.1\Random.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\homework_inheritance\Random\obj\Debug\netcoreapp3.1\Random.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\homework_inheritance\Random\obj\Debug\netcoreapp3.1\Random.AssemblyInfo.cs
+C:\Users\vikto\source\repos\homework_inheritance\Random\obj\Debug\netcoreapp3.1\Random.dll
+C:\Users\vikto\source\repos\homework_inheritance\Random\obj\Debug\netcoreapp3.1\Random.pdb

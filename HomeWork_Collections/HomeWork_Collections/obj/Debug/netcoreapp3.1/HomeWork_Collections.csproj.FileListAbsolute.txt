@@ -1,0 +1,16 @@
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\bin\Debug\netcoreapp3.1\HomeWork_Collections.exe
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\bin\Debug\netcoreapp3.1\HomeWork_Collections.deps.json
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\bin\Debug\netcoreapp3.1\HomeWork_Collections.runtimeconfig.json
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\bin\Debug\netcoreapp3.1\HomeWork_Collections.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\bin\Debug\netcoreapp3.1\HomeWork_Collections.dll
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\bin\Debug\netcoreapp3.1\HomeWork_Collections.pdb
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\obj\Debug\netcoreapp3.1\HomeWork_Collections.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\obj\Debug\netcoreapp3.1\HomeWork_Collections.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\obj\Debug\netcoreapp3.1\HomeWork_Collections.AssemblyInfo.cs
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\obj\Debug\netcoreapp3.1\HomeWork_Collections.dll
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\obj\Debug\netcoreapp3.1\HomeWork_Collections.pdb
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\obj\Debug\netcoreapp3.1\HomeWork_Collections.genruntimeconfig.cache
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\bin\Debug\netcoreapp3.1\Random.dll
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\bin\Debug\netcoreapp3.1\Random.pdb
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\obj\Debug\netcoreapp3.1\HomeWork_Collections.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\HomeWork_Collections\HomeWork_Collections\obj\Debug\netcoreapp3.1\HomeWork_Collections.csproj.CopyComplete

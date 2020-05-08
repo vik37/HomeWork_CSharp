@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Movies/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Movies.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Movies.dll": {}
+        }
+      },
+      "MoviesHelper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Movies": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MoviesHelper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoviesHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movies/1.0.0": {
+      "type": "project",
+      "path": "../Movies/Movies.csproj",
+      "msbuildProject": "../Movies/Movies.csproj"
+    },
+    "MoviesHelper/1.0.0": {
+      "type": "project",
+      "path": "../MoviesHelper/MoviesHelper.csproj",
+      "msbuildProject": "../MoviesHelper/MoviesHelper.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Movies >= 1.0.0",
+      "MoviesHelper >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\vikto\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\vikto\\source\\repos\\HomeWork_LINQ\\HomeWork_LINQ\\HomeWork_LINQ.csproj",
+      "projectName": "HomeWork_LINQ",
+      "projectPath": "C:\\Users\\vikto\\source\\repos\\HomeWork_LINQ\\HomeWork_LINQ\\HomeWork_LINQ.csproj",
+      "packagesPath": "C:\\Users\\vikto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vikto\\source\\repos\\HomeWork_LINQ\\HomeWork_LINQ\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\vikto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\vikto\\source\\repos\\HomeWork_LINQ\\MoviesHelper\\MoviesHelper.csproj": {
+              "projectPath": "C:\\Users\\vikto\\source\\repos\\HomeWork_LINQ\\MoviesHelper\\MoviesHelper.csproj"
+            },
+            "C:\\Users\\vikto\\source\\repos\\HomeWork_LINQ\\Movies\\Movies.csproj": {
+              "projectPath": "C:\\Users\\vikto\\source\\repos\\HomeWork_LINQ\\Movies\\Movies.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

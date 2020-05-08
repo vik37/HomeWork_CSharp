@@ -1,0 +1,8 @@
+C:\Users\vikto\source\repos\HomeWork_LINQ\Movies\bin\Debug\netcoreapp3.1\Movies.deps.json
+C:\Users\vikto\source\repos\HomeWork_LINQ\Movies\bin\Debug\netcoreapp3.1\Movies.dll
+C:\Users\vikto\source\repos\HomeWork_LINQ\Movies\bin\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\vikto\source\repos\HomeWork_LINQ\Movies\obj\Debug\netcoreapp3.1\Movies.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\HomeWork_LINQ\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\HomeWork_LINQ\Movies\obj\Debug\netcoreapp3.1\Movies.AssemblyInfo.cs
+C:\Users\vikto\source\repos\HomeWork_LINQ\Movies\obj\Debug\netcoreapp3.1\Movies.dll
+C:\Users\vikto\source\repos\HomeWork_LINQ\Movies\obj\Debug\netcoreapp3.1\Movies.pdb

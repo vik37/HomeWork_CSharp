@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MoviesHelper/1.0.0": {
+        "dependencies": {
+          "Movies": "1.0.0"
+        },
+        "runtime": {
+          "MoviesHelper.dll": {}
+        }
+      },
+      "Movies/1.0.0": {
+        "runtime": {
+          "Movies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoviesHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Movies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

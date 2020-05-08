@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\HomeWork_LINQ\MoviesHelper\obj\Debug\netcoreapp3.1\MoviesHelper.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\HomeWork_LINQ\MoviesHelper\obj\Debug\netcoreapp3.1\MoviesHelper.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\HomeWork_LINQ\MoviesHelper\obj\Debug\netcoreapp3.1\MoviesHelper.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\HomeWork_LINQ\MoviesHelper\obj\Debug\netcoreapp3.1\MoviesHelper.AssemblyInfo.cs
+C:\Users\vikto\source\repos\HomeWork_LINQ\MoviesHelper\bin\Debug\netcoreapp3.1\MoviesHelper.deps.json
+C:\Users\vikto\source\repos\HomeWork_LINQ\MoviesHelper\bin\Debug\netcoreapp3.1\MoviesHelper.dll
+C:\Users\vikto\source\repos\HomeWork_LINQ\MoviesHelper\bin\Debug\netcoreapp3.1\MoviesHelper.pdb
+C:\Users\vikto\source\repos\HomeWork_LINQ\MoviesHelper\bin\Debug\netcoreapp3.1\Movies.dll
+C:\Users\vikto\source\repos\HomeWork_LINQ\MoviesHelper\bin\Debug\netcoreapp3.1\Movies.pdb
+C:\Users\vikto\source\repos\HomeWork_LINQ\MoviesHelper\obj\Debug\netcoreapp3.1\MoviesHelper.csproj.CopyComplete
+C:\Users\vikto\source\repos\HomeWork_LINQ\MoviesHelper\obj\Debug\netcoreapp3.1\MoviesHelper.dll
+C:\Users\vikto\source\repos\HomeWork_LINQ\MoviesHelper\obj\Debug\netcoreapp3.1\MoviesHelper.pdb

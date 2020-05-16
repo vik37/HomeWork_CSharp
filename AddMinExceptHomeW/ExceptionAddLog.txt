@@ -1,0 +1,4 @@
+InvalidOperationException  Sequence contains no matching element     at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at AdminUsers.AdminServ.Services.GetIdAdmins(Int32 id) in C:\Users\vikto\source\repos\AddMinExceptHomeW\AdminUsers\AdminServ\Services.cs:line 18
+   at AddminFace.Program.Main(String[] args) in C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\Program.cs:line 39

@@ -1,0 +1,8 @@
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AdminUsers\obj\Debug\netcoreapp3.1\AdminUsers.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AdminUsers\obj\Debug\netcoreapp3.1\AdminUsers.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AdminUsers\obj\Debug\netcoreapp3.1\AdminUsers.AssemblyInfo.cs
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AdminUsers\bin\Debug\netcoreapp3.1\AdminUsers.deps.json
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AdminUsers\bin\Debug\netcoreapp3.1\AdminUsers.dll
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AdminUsers\bin\Debug\netcoreapp3.1\AdminUsers.pdb
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AdminUsers\obj\Debug\netcoreapp3.1\AdminUsers.dll
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AdminUsers\obj\Debug\netcoreapp3.1\AdminUsers.pdb

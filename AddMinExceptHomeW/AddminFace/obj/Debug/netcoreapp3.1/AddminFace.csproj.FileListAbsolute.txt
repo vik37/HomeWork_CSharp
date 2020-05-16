@@ -1,0 +1,16 @@
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\obj\Debug\netcoreapp3.1\AddminFace.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\obj\Debug\netcoreapp3.1\AddminFace.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\obj\Debug\netcoreapp3.1\AddminFace.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\obj\Debug\netcoreapp3.1\AddminFace.AssemblyInfo.cs
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\bin\Debug\netcoreapp3.1\AddminFace.exe
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\bin\Debug\netcoreapp3.1\AddminFace.deps.json
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\bin\Debug\netcoreapp3.1\AddminFace.runtimeconfig.json
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\bin\Debug\netcoreapp3.1\AddminFace.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\bin\Debug\netcoreapp3.1\AddminFace.dll
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\bin\Debug\netcoreapp3.1\AddminFace.pdb
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\bin\Debug\netcoreapp3.1\AdminUsers.dll
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\bin\Debug\netcoreapp3.1\AdminUsers.pdb
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\obj\Debug\netcoreapp3.1\AddminFace.csproj.CopyComplete
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\obj\Debug\netcoreapp3.1\AddminFace.dll
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\obj\Debug\netcoreapp3.1\AddminFace.pdb
+C:\Users\vikto\source\repos\AddMinExceptHomeW\AddminFace\obj\Debug\netcoreapp3.1\AddminFace.genruntimeconfig.cache

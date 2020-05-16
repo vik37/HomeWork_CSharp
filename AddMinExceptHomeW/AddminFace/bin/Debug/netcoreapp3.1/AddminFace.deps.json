@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AddminFace/1.0.0": {
+        "dependencies": {
+          "AdminUsers": "1.0.0"
+        },
+        "runtime": {
+          "AddminFace.dll": {}
+        }
+      },
+      "AdminUsers/1.0.0": {
+        "runtime": {
+          "AdminUsers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddminFace/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdminUsers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

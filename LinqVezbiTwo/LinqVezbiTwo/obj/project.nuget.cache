@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2RnX5k776aC0Q+nZ48ro6xjKZPEVBF9jZy1oRR3Q6cDitnhatx6Grl4lX1+jFYSoue9FfF81ufZHG0zjziJwoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikto\\source\\repos\\LinqVezbiTwo\\LinqVezbiTwo\\LinqVezbiTwo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
